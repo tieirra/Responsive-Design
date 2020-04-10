@@ -8,8 +8,8 @@ In this module challenge you will continue working on your portfolio website to 
 
 ## Objectives
 
-- describe the differences in fixed, fluid, adaptive, and responsive layouts Fixed: a website that does not adjust to any other devices. 
-Fluid: flips website on different screen.
+- describe the differences in fixed, fluid, adaptive, and responsive layouts. Fixed: a website that does not adjust to any other devices. 
+Fluid: flips website on different screen. Adaptive: adapts itself to fit into various screen resolutions. Responsive layout:It provides precise viewing experience of a website to the user, adapting to all screens across devices.
 
 - implement media queries in a project.
 - describe and use responsive units (px, em, rem, %, and vw.vh) to create a fully responsive website
